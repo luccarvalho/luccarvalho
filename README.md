@@ -1,8 +1,8 @@
-## Oi! Eu sou o Lucas Carvalho
+## Hello! My name is Lucas Carvalho.
 
-- 🌱 Sou formado em Análise e Desenvolvimento de Sistemas.
-- 👀 Tenho interesse pela área de programação.
-- 💞️ Venho de outra profissão e procuro uma oportunidade como programador.
+-  Majored in Systems Analysis and Development;
+-  Front-end Development;
+-  In carrer transition.
 
 <div align="center">
   <a href="https://github.com/luccarvalho">

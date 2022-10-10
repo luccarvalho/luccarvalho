@@ -9,6 +9,8 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccarvalho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+[![Lucas GitHub Streak](https://streak-stats.demolab.com/?user=luccarvalho&theme=dracula)](https://git.io/streak-stats)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Icone HTML5" height="45" widht="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="Icone CSS3" height="45" widht="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />

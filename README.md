@@ -3,9 +3,11 @@
 ## Olá! Meu nome é Lucas Carvalho.
 
 
-Sou de São Paulo-SP, formado em Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Web, mas me interesso por tudo que faz parte do universo da programação.
 
-Sempre explorando novas tecnologias e buscando desenvolver soluções.
+:pushpin: Sou de São Paulo-SP, formado em Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Web, mas me interesso por tudo que faz parte do universo da programação.
+
+
+:books: Sempre explorando novas tecnologias e buscando desenvolver soluções.
 
 
 ## :earth_americas: Onde me encontrar
@@ -14,14 +16,15 @@ Sempre explorando novas tecnologias e buscando desenvolver soluções.
 [![Outlook Badge](https://img.shields.io/badge/-OUTLOOK-006bed?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:SEU-EMAIL)](mailto:lucasalexandre_82@hotmail.com)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/luccarvalho?label=follow&style=social)](https://github.com/luccarvalho)
 
-## Minhas Skill´s
 
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
+## :computer: Minhas Skill´s
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
 
 ----
 
